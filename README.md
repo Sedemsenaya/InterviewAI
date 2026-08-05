@@ -1,5 +1,5 @@
 # InterviewAI
-![Uploading image.png…]()
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/4fc11340-e3d9-499b-90b3-e81783038e5d" />
 
 ![Build](https://github.com/Sedemsenaya/InterviewAI/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
