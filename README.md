@@ -1,4 +1,5 @@
 # InterviewAI
+![Uploading image.png…]()
 
 ![Build](https://github.com/Sedemsenaya/InterviewAI/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
